@@ -8,3 +8,4 @@ brain-computer interfaces (BCIs) using advanced machine learning techniques. By 
 of traditional machine learning models and state-of-the-art neural network architectures, such as EEGNet and 
 LMDA-Net, the project aims to improve the reliability and performance of BCIs for more effective 
 communication and control applications.</p>
+<p> Also applied multiple machine learning techniques (SVM, Logistic Regression, Random Forest, etc) and deep learning model dedicated for EEG data ([EEGNET](https://arxiv.org/pdf/1611.08024.pdf)). </p>
